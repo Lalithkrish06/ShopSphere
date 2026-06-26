@@ -10,12 +10,8 @@
 
 ---
 
-## 🚀 Live Demo
-
-🌐 **Live Website:** https://your-live-demo.vercel.app
-
 🎥 **Project Demonstration:**  
-👉 https://www.linkedin.com/posts/YOUR_LINKEDIN_POST_LINK
+👉 https://www.linkedin.com/posts/lalithkrish-data_softwareengineering-fullstackdeveloper-react-ugcPost-7476178702494638080-05Ce/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFOj_WYBncOFydeAPBILXlA2BQoiO9StjuA
 
 ---
 
